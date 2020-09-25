@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89ef628f-9a6d-478a-a29a-95bb70a7f9aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hg8GvFSjeHe5XN21x0muB15KVz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Locator (1)">
+    <configuration name="Detection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.naumenka.linearprogramm.service.Detection" />
+      <module name="task01linearprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.naumenka.linearprogramm.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.naumenka.linearprogramm.controller.Locator" />
+      <module name="task01linearprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.naumenka.linearprogramm.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.Naumenka.linearprogramm.service.Locator" />
+      <module name="task01linearprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.naumenka.linearprogramm.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Locator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.naumenka.linearprogramm.controller.Locator" />
+      <module name="task01linearprogramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.naumenka.linearprogramm.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Locator (1)" />
+        <item itemvalue="Application.Detection" />
+        <item itemvalue="Application.Locator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/6 semester Mac/ЦОСиИ/lab1" value="PREVIEW" />
+        <entry key="$USER_HOME$/6 semester Mac/ЦОСиИ/lab4" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/BSUIR-digital-signal-processing-master/sem_6_signals_processing/lab2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/lab1" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89ef628f-9a6d-478a-a29a-95bb70a7f9aa" name="Default Changelist" comment="" />
+      <created>1600421282352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600421282352</updated>
+      <workItem from="1600421285146" duration="9742000" />
+      <workItem from="1600527140223" duration="8099000" />
+      <workItem from="1600542847575" duration="591000" />
+      <workItem from="1600594118946" duration="502000" />
+      <workItem from="1600594708564" duration="577000" />
+      <workItem from="1600595591689" duration="69000" />
+      <workItem from="1600666683499" duration="604000" />
+      <workItem from="1600891118090" duration="434000" />
+      <workItem from="1600940305067" duration="408000" />
+      <workItem from="1600978296088" duration="209000" />
+      <workItem from="1600978791128" duration="11000" />
+      <workItem from="1601025758287" duration="42000" />
+      <workItem from="1601025853125" duration="4000" />
+      <workItem from="1601026062743" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uploading a project" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploading a project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="202" key="#Project_Structure" timestamp="1600539862955">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="202" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1600539862955" />
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600431894735">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600431894735" />
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1600427573263">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1600427573263" />
+    <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600431842386">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="578" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600431842386" />
+    <state x="660" y="437" key="Github.ShareDialog" timestamp="1600595213341">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="660" y="437" key="Github.ShareDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600595213341" />
+    <state width="1638" height="205" key="GridCell.Tab.0.bottom" timestamp="1600940749248">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="205" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600940749248" />
+    <state width="1638" height="205" key="GridCell.Tab.0.center" timestamp="1600940749247">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="205" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600940749247" />
+    <state width="1638" height="205" key="GridCell.Tab.0.left" timestamp="1600940749247">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="205" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600940749247" />
+    <state width="1638" height="205" key="GridCell.Tab.0.right" timestamp="1600940749247">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="205" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600940749247" />
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom" timestamp="1600542237272">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600542237272" />
+    <state width="1638" height="345" key="GridCell.Tab.1.center" timestamp="1600542237272">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600542237272" />
+    <state width="1638" height="345" key="GridCell.Tab.1.left" timestamp="1600542237272">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600542237272" />
+    <state width="1638" height="345" key="GridCell.Tab.1.right" timestamp="1600542237272">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="345" key="GridCell.Tab.1.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600542237272" />
+    <state x="452" y="237" key="NewModule_or_Project.wizard" timestamp="1600595295397">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="452" y="237" key="NewModule_or_Project.wizard/0.23.1680.1027@0.23.1680.1027" timestamp="1600595295397" />
+    <state x="328" y="118" key="SettingsEditor" timestamp="1600594349220">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="328" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1600594349220" />
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog" timestamp="1601026063297">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="517" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1601026063297" />
+    <state x="574" y="439" key="svn.passwordDialog" timestamp="1600595089024">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="574" y="439" key="svn.passwordDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600595089024" />
+    <state x="678" y="334" key="svn.repositoryBrowser" timestamp="1600595111638">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="678" y="334" key="svn.repositoryBrowser/0.23.1680.1027@0.23.1680.1027" timestamp="1600595111638" />
+    <state x="591" y="318" key="svn4idea.import.options" timestamp="1600594914857">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="591" y="318" key="svn4idea.import.options/0.23.1680.1027@0.23.1680.1027" timestamp="1600594914857" />
+  </component>
+</project>
